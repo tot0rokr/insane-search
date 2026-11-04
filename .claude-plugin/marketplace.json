@@ -1,0 +1,15 @@
+{
+  "name": "insane-search-fork",
+  "owner": {
+    "name": "tot0rokr",
+    "url": "https://github.com/tot0rokr"
+  },
+  "plugins": [
+    {
+      "name": "insane-search",
+      "source": "./",
+      "description": "Fallback-only fork of insane-search: steps in only after a normal fetch fails.",
+      "version": "0.17.4-fallback.1"
+    }
+  ]
+}
